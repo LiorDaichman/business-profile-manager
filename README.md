@@ -72,4 +72,6 @@ cd business-profile-management
 open cmd inside the folder and enter: php -S localhost:8000
 open in the browser the website http://localhost:8000/
 
-https://github.com/LiorDaichman/business-profile-manager/issues/1#issue-3105166517
+### Video:
+
+[business-profile-manager.webm]([https://github.com/user-attachments/assets/84fac1df-6911-4131-be20-0b11d0747b54](https://github.com/LiorDaichman/business-profile-manager/issues/1#issue-3105166517))

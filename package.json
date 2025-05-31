@@ -1,0 +1,18 @@
+{
+  "name": "business-profile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@pqina/jquery-pintura": "^9.0.2",
+    "@pqina/pintura": "^8.92.4",
+    "bootstrap": "^5.3.3",
+    "fullcalendar": "^6.1.15",
+    "jquery": "^3.7.1"
+  }
+}

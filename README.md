@@ -6,7 +6,6 @@ This project is a Full Stack application to manage business profiles, including 
 - **Backend:** PHP 8+ (Pure PHP with Composer)
 - **Database:** MySQL
 - **Frontend:** Bootstrap 5, jQuery
-- **Version Control:** Bitbucket
 - **Cloud Storage:** AWS S3 for image storage
 - **Image Editing:** Pintura Image Editor for header image modifications
 - **Calendar:** FullCalendar.io for displaying business hours
